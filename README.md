@@ -1,1 +1,3 @@
 # FilmSynergy_Recommender
+The primary objective of FilmSynergy Recommender is to enhance the accuracy and diversity of movie recommendations by fusing the strengths of collaborative and content- based filtering. Through a seamless integration of these two approaches, the system aims to provide users with a more personalized and engaging movie-watching experience. Existing
+movie recommendation systems often rely on either collaborative filtering, which leverages user interactions, or content-based filtering, which considers movie features. However, these approaches have inherent limitations, such as the cold-start problem and lack of diversity in recommendations.     
